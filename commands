@@ -1,0 +1,4 @@
+python3 main.py
+lsof -i:10970
+kill -9
+cd ~/Projects/rasp_client
